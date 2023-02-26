@@ -1,7 +1,9 @@
 # Object Oriented Programming- Game of Blackjack
 
-In this project, I leverage Object Oriented Programming to create a game of blackjack between human players, naive computer players, and a computer dealer. 
+## Project Abstract
+In this project, I leverage Object Oriented Programming in Python to create a game of blackjack between human players, naive computer players, and a computer dealer. 
 
+## Rules of the Game
 For each round:
 1. The dealer shuffles the deck.
 2. The dealer gives 1 card face-up to all players; and 1 card face-up to themself.
@@ -20,3 +22,5 @@ For each round:
 5. Declare the winner of this round. The winner is the player or dealer with the highest
 score.
 6. Prompt the human players if they want another round.
+
+## How to run
