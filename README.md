@@ -24,3 +24,5 @@ score.
 6. Prompt the human players if they want another round.
 
 ## How to run
+
+Download and run *python3 dhruv_blackj_FINAL.py*. You will see the instructions to play the game on the terminal. Enjoy!
